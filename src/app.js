@@ -6,8 +6,6 @@ const app = {
 }
 
 
-
-
 const onFormSubmit = (e) => {
 e.preventDefault();
 
